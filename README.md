@@ -88,5 +88,9 @@ pytest tests/e2e/test_compra_bdd.py --alluredir=allure-results
 
 
 
+Base do E-commerce: Phoenix Project (Créditos ao desenvolvedor original). Automação e Engenharia de QA por Luciana Orli.
+
+
+
 Um produto Lux by Or 💎 
 
