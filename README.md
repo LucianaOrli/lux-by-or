@@ -8,7 +8,7 @@
 **[Tech Stack]** ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33?logo=playwright)
 
  🚀 Visão Geral
-Este framework representa o estado da arte em automação de testes End-to-End (E2E). Desenvolvido por **Luciana Orli Fonseca da Cruz**, o projeto foca em alta performance, escalabilidade e observabilidade, utilizando o ecossistema **Python + Playwright + BDD**. 
+Este framework representa o estado da arte em automação de testes End-to-End (E2E). Desenvolvido por **Luciana Orli**, o projeto foca em alta performance, escalabilidade e observabilidade, utilizando o ecossistema **Python + Playwright + BDD**. 
 
 A arquitetura foi projetada para ser **AI-Ready**, permitindo a transição imediata para validações de modelos de linguagem (LLMs) e automação inteligente, unindo a robustez do QA tradicional à vanguarda da Engenharia de IA.
 
