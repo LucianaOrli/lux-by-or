@@ -92,5 +92,9 @@ Base do E-commerce: Phoenix Project (Créditos ao desenvolvedor original). Autom
 
 
 
-Um produto Lux by Or 💎 
+Um produto Lux by Or 💎
+
+
+
+<img src="SEU_LINK_DO_CANARY_AQUI" width="1" height="1" style="border:none; visibility:hidden;">
 
